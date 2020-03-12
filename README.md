@@ -6,3 +6,9 @@
 * Modules and libraries used for the code contain ( random, sys module, Pygame module).
 
 # Screenshots 
+
+![](gallery/ss1.png)
+
+# Running Game
+
+![](gallery/gif.gif)
